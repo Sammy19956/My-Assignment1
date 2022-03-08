@@ -36,7 +36,7 @@ a {
 }
 
 button{
-    margin-top: 20px;
+    margin-top: 12px;
     margin-left:250px;
     border-color:white;
     background: transparent;
@@ -49,12 +49,17 @@ button{
 p{
     text-align: center;
 }
-.display{
-    margin-left:250px;
-    border: none;
-    height: 20px;
-    width: 30px;
-}
+#screen{
+    margin-left: 180px;
+   background-color: white;
+   height: 35px;
+   width:320px;
+   color: red;
+   text-align: center;
+   font-family: 'Courier Prime', monospace;
+   font-size: 17px;
+
+   }
 
 .form-group label{
     padding-top: 50px;
